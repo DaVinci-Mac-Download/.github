@@ -60,16 +60,6 @@
 
 ---
 
-## 🧩 How to Use
-
-1. Unpack the `.zip` archive to any folder  
-2. Disable internet connection temporarily  
-3. **Launch AppLauncher.exe from the archive as Administrator**  
-4. Follow on-screen instructions for setup  
-5. Re-enable internet and enjoy full access
-
----
-
 ## 🖼️ Visual Preview
 
 <p align="center">
